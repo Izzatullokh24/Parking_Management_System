@@ -62,4 +62,12 @@ This project is a Parking Management System that uses computer vision to detect 
     ```
 
     - The system will process the `carPark.mp4` video and display the parking status in real-time.
+  
+## Demo Video
+
+Watch the demo video:
+
+[![Watch the video](https://youtu.be/hVsA678TU0Y)
+
+
 
