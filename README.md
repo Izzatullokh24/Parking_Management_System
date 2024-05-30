@@ -67,7 +67,7 @@ This project is a Parking Management System that uses computer vision to detect 
 
 Watch the demo video:
 
-[![Watch the video](https://youtu.be/hVsA678TU0Y)
+[![Watch the video](https://www.youtube.com/watch?v=hVsA678TU0Y/maxresdefault.jpg)(https://youtu.be/hVsA678TU0Y)
 
 
 
