@@ -34,7 +34,32 @@ This project is a Parking Management System that uses computer vision to detect 
     ```
 3. ** Prepare the Parking Space Positions:**
 
--Run parkingspacecounter.py to set up the parking spaces.
+-Run `parkingspacecounter.py` to set up the parking spaces.
 -Click on the parking spots in the carParkImg.png image to add them.
 -Right-click on a parking spot to remove it.
 -Positions are saved in the CarParkPos file.
+
+
+## Usage
+
+1. **Set up the parking spaces:**
+
+    Run the `parkingspacecounter.py` script to manually define the parking spaces:
+
+    ```bash
+    python parkingspacecounter.py
+    ```
+
+    - Click to add parking spaces.
+    - Right-click to remove parking spaces.
+
+2. **Run the main program:**
+
+    Run the `main.py` script to start the parking management system:
+
+    ```bash
+    python main.py
+    ```
+
+    - The system will process the `carPark.mp4` video and display the parking status in real-time.
+
