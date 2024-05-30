@@ -1,6 +1,12 @@
 ﻿# Parking Management System
  
 This project is a Parking Management System that uses computer vision to detect and count parked cars in a parking lot. The system processes video footage to identify free and occupied parking spaces, providing a real-time count of available and occupied spots.
+## Demo Video
+
+Watch the demo video:
+
+[![Watch the video](https://img.youtube.com/vi/hVsA678TU0Y/maxresdefault.jpg)](https://youtu.be/hVsA678TU0Y)
+
 
 ## Features
 
@@ -63,11 +69,7 @@ This project is a Parking Management System that uses computer vision to detect 
 
     - The system will process the `carPark.mp4` video and display the parking status in real-time.
   
-## Demo Video
 
-Watch the demo video:
-
-[![Watch the video](https://img.youtube.com/vi/hVsA678TU0Y/maxresdefault.jpg)](https://youtu.be/hVsA678TU0Y)
 
 
 
